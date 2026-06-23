@@ -1,2 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=stolarchukboris)](https://github.com/ryo-ma/github-profile-trophy)
-me when trophy doesnt work
+Discord bot developer. Creating automated management and logging solutions.
+
+### Tech stack
+- Languages: Lua(u), JavaScript/TypeScript
+- Runtimes: Node.js/Bun
+- Frameworks: Discord.js/Sapphire.js, Knex.js, Express.js
+- Database: MySQL
